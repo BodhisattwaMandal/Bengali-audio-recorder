@@ -1,9 +1,9 @@
 To install this on ubuntu 14.04 and above
 =========================================
 
-git clone https://github.com/tshrinivasan/voice-recorder-for-tawictionary.git
+git clone https://github.com/BodhisattwaMandal/Bengali-audio-recorder.git
 
-cd voice-recorder-for-tawictionary
+cd Bengali-audio-recorder
 
 sh ./install.sh
 
@@ -12,9 +12,9 @@ sh ./install.sh
 To Install this on mac
 ======================
 
-git clone https://github.com/tshrinivasan/voice-recorder-for-tawictionary.git
+git clone https://github.com/BodhisattwaMandal/Bengali-audio-recorder.git
 
-cd voice-recorder-for-tawictionary
+cd Bengali-audio-recorder
 
 
 
