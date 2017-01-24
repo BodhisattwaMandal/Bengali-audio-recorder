@@ -1,19 +1,7 @@
-Voice Recorder for Tamil Wiktionary
+Audio Recorder for Bengali Wiktionary
 ===================================
 
-Wiktionary.org is a wikipedia project to provide the dictionary service for words.
-
-http://ta.wiktionary.org provides Tamil meaning for English words.
-
-
-Check this page:
-http://ta.wiktionary.org/wiki/tiny
-
-It shows the word, gives its meaning in tamil and has an audio file link, on how to pronounce it.
-We can click the file and play it to hear the pronounciation.
-
-Tamil Wiktionary has around one lakh words.
-only few words have the audio files to hear them.
+bn.wiktionary.org is a wikimedia project to provide the dictionary service for Bengali words.
 
 To add an audio file in the wiktionary page,
 1. see the word
@@ -60,26 +48,13 @@ python voice-record.py 2> err
 
 this will record the sounds in ogg and wav formats.
 
-3.
-To upload all the ogg files to Wikimedia Commons
+3. To upload all the ogg files to Wikimedia Commons
 
 3a. Edit the file mediawiki-uploader.py 
 Fill the commons api url, username and password
 
 3b. run the below command
 python mediawiki-uploader.py
-
-
-
-
-
-
-
-Todo:
-
-Link back to the tamil wiktionary page is still pending.
-
-
 
 
 
